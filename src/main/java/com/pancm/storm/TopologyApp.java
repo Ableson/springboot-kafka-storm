@@ -57,6 +57,5 @@ public class TopologyApp {
 		}
 
 		logger.info("storm启动成功...");
-
 	}
 }
